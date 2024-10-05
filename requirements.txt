@@ -1,22 +1,26 @@
 # Audio Processing Libraries
-librosa>=          # For audio analysis
-soundfile>=       # For reading/writing audio files
-pydub>=          # For simple audio manipulation
+librosa         # For audio analysis
+soundfile       # For reading/writing audio files
+pydub           # For simple audio manipulation
 
 # Machine Learning Libraries
-tensorflow>=      # For building and training models
-numpy>=         # For numerical operations
-scipy>=          # For scientific computing
+tensorflow      # For building and training models
+numpy           # For numerical operations
+scipy           # For scientific computing
 
 # Data Handling and Visualization
-pandas>=       # For data manipulation and analysis
-matplotlib>=    # For creating static, animated, and interactive visualizations
-seaborn>=        # For statistical data visualization
-plotly>=          # For interactive graphs and visualizations
+pandas          # For data manipulation and analysis
+matplotlib      # For creating static, animated, and interactive visualizations
+seaborn         # For statistical data visualization
+plotly          # For interactive graphs and visualizations
 
 # Statistics
-statsmodels>=    # For statistical modeling
-scikit-learn>=    # For machine learning tools and data preprocessing
+statsmodels     # For statistical modeling
+scikit-learn    # For machine learning tools and data preprocessing
 
 # Jupyter Notebook Extensions (optional)
-jupyterlab>=      # For enhanced Jupyter Notebook experience
+jupyterlab      # For enhanced Jupyter Notebook experience
+ffmpeg
+pytube
+pydub
+noisereduce
